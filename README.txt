@@ -1,7 +1,8 @@
-README:
+README: Embedded SQL Demo using C++
+
+Topic: University Student Course Selection Portal
 
 Project: 3
-Team Member: Jishnu Pradeep, Akansha Gupta, Manav Trivedi
 
 File Info:
 1. main.cpp : C++ file containing the program
